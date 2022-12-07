@@ -1,6 +1,6 @@
 {
   "name": "mic-recorder-to-mp3",
-  "version": "2.2.2",
+  "version": "2.2.3-pre",
   "description": "Record your microphone audio input and get an audio/mp3 ouput buffer/blob.",
   "main": "dist/index.js",
   "scripts": {
@@ -39,7 +39,7 @@
     ]
   },
   "dependencies": {
-    "lamejs": "^1.2.0"
+    "lamejs": "git+https://git@github.com/BeTomorrow/lamejs.git#v1.2.2-pre"
   },
   "peerDependencies": {
     "webrtc-adapter": ">=4.1.1"

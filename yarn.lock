@@ -1108,9 +1108,9 @@ kind-of@^4.0.0:
   dependencies:
     is-buffer "^1.1.5"
 
-lamejs@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/lamejs/-/lamejs-1.2.0.tgz#0259f83db4666141a7b671b8caa6369d95177d08"
+"lamejs@git+https://github.com/BeTomorrow/lamejs.git#v1.2.2-pre":
+  version "1.2.1"
+  resolved "git+https://github.com/BeTomorrow/lamejs.git#582bbba6a12f981b984d8fb9e1874499fed85675"
   dependencies:
     use-strict "1.0.1"
 
